@@ -1,0 +1,5 @@
+C:\Users\Balaji.Nataraju\Documents\Visual Studio 2017\HelloWorldAPI\HelloWorldCommon\bin\Debug\HelloWorldCommon.dll
+C:\Users\Balaji.Nataraju\Documents\Visual Studio 2017\HelloWorldAPI\HelloWorldCommon\bin\Debug\HelloWorldCommon.pdb
+C:\Users\Balaji.Nataraju\Documents\Visual Studio 2017\HelloWorldAPI\HelloWorldCommon\obj\Debug\HelloWorldCommon.csproj.CoreCompileInputs.cache
+C:\Users\Balaji.Nataraju\Documents\Visual Studio 2017\HelloWorldAPI\HelloWorldCommon\obj\Debug\HelloWorldCommon.dll
+C:\Users\Balaji.Nataraju\Documents\Visual Studio 2017\HelloWorldAPI\HelloWorldCommon\obj\Debug\HelloWorldCommon.pdb
